@@ -1,0 +1,16 @@
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\bin\Debug\itextsharp.dll
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\kurs_el_och.АдминПанель.resources
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\kurs_el_och.Вход.resources
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\kurs_el_och.Доктор.resources
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\kurs_el_och.Назначение.resources
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\kurs_el_och.Пациент.resources
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\kurs_el_och.РасписаниеДоктора.resources
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\Queue.csproj.GenerateResource.Cache
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\bin\Debug\Queue.exe.config
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\bin\Debug\Queue.exe
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\bin\Debug\Queue.pdb
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\Queue.Properties.Resources.resources
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\Queue.exe
+C:\Users\Oracle\Desktop\учеба\kurs_el_och\kurs_el_och\obj\Debug\Queue.pdb
